@@ -1,0 +1,2 @@
+think of two numbers
+call add function in class Calc
